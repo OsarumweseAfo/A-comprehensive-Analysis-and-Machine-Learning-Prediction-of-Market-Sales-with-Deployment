@@ -16,7 +16,7 @@ Data Collection and Preprocessing:
 * Visaulize trends and relationship among variables to have a clear picture of the data set and understand factors influencing market sales
   
 * Build and compare multiple regression models(e.g Linear Regression, Ridge Regression, Elastic net, Decesion Tree Regressor, Gradient Boosting Regressor and Random Tree Regressor) to predict market sales.
-* 
+  
 * Create an interactive web application using streamlit to deploy the best performing model, allowing users to input features values and obtain market  sales predictions.
 
 ---
@@ -51,7 +51,7 @@ The Dataset used in this project provides a comprehensive overview of supermarke
   3. Feature Engineering:
      * Creating new variables (Total Sales) to improve model performance.
      * Encoded all categorical variables such as Gender, City, Customer Type and Product using one-hot encoding to prepare the data for regression.
-     * 
+       
   4. Model Redeployment: Several  machine learning models including Random Tree Regressor( Our Primary Model) are  explored and trained too predict market sales.
 
   5. Hyperparameter Tuning: Ussed techniques like GridSearchCV to optimize model parameters.
