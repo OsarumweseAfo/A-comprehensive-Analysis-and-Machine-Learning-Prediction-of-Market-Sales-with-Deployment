@@ -8,7 +8,7 @@ In the world of business today, accurate forcasting of sales is very important t
 
 ---
 
-## Scope:
+## Scope
 Data Collection and Preprocessing:
 
 * Handling missing values, removing duplicates, ensure correct data types,creating our target variable and encoding categorical variables.
@@ -19,3 +19,4 @@ Data Collection and Preprocessing:
 ---
 
 ## Data Description
+--
